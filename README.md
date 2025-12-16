@@ -4,7 +4,7 @@ Mi proyecto se basa en un videojuego que usa la biblioteca de panda para analisa
 # Tecnologia usadas
  1-Python
  2.biblioteca Panda.
- 3.Google colab
+ 3.colab
  4.Jupyter notebook
 
  mi aportacion al proyecto fue crear un videojuego que analisa las puntuaciones, los records entre otras cosas. con esto puedo demuestro mi valor como estudiante sofware.
